@@ -10,6 +10,7 @@ This class defines a lattice unit cell structure and handles the 3D visualizatio
 Methods:
 __init__(): Initializes the lattice structure by defining points and vectors.
 plot(nx, ny, nz, points): Plots the 3D lattice structure for nx, ny, and nz unit cells.
+
 2. States
 The States class generates physical states for a lattice system based on Gauss's law. It checks all possible configurations of variables and validates the ones that comply with the constraints.
 
