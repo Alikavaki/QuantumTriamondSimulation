@@ -170,7 +170,6 @@ class Hamiltonian:
         self.num_unit = num_unit
         self.sector = sector
         self.n_max = 2 * num_unit
-        #self.translation_symmetry = translation_symmetry  # Key to use translation symmetry
         # other initialization...
         self.sub_space = None
         self.magnetic_part = None
